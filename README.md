@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Donald33!
 
 - 🔭 I’m currently working on compilers
-- 🌱 I’m currently learning C, C#, Go, Python, TypeScript, English, and Japanese
+- 🌱 I’m currently learning CS, PLT, literature, philosophy, C, C#, Go, Java, and TypeScript
 - ✨ Eager to learn more
+
+![touhou](./touhou.jpg)
 
 <!--
 **DongchengWang/DongchengWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
