@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Donald33 Nevermore!
+### Hi there 👋 I'm Fujimiya Nevermore🔥 aka Donald33~
 
 - 🔭 I’m currently working on compilers
 - 🌱 I’m currently learning CS, PLT, literature, philosophy, C, C#, Go, Java, and TypeScript
