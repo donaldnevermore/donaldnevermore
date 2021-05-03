@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Fujimiya D. Nevermore🔥
+### Hi there 👋 I'm Donald D. Nevermore🌦️
 
 - 🔭 I’m currently working on compilers
-- 🌱 I’m currently learning CS, PLT, literature, philosophy, C, C#, Go, Java, and TypeScript
+- 🌱 I’m currently learning OS/PL/C/C#/TypeScript
 - ✨ Eager to learn more
 
 ![touhou](./touhou.jpg)
