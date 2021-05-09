@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Donald D. Nevermore🌦️
 
 - 🔭 I’m currently working on compilers
-- 🌱 I’m currently learning OS/PL/C/C#/TypeScript
+- 🌱 I’m currently learning OS/PL/C/C#
 - ✨ Eager to learn more
 
 ![touhou](./touhou.jpg)
