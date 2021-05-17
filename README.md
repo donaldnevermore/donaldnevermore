@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Donald D. Nevermore🌦️
+### Hi there 👋 I'm Donald D. Nevermore
 
 - 🔭 I’m currently working on compilers
 - 🌱 I’m currently learning OS/PL/C/C#
