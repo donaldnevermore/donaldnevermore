@@ -1,20 +1,9 @@
-### Hi there 👋 I'm Donald D. Nevermore
+🔥 Donald33 D. Nevermore
 
-- 🔭 I’m currently working on compilers
-- 🌱 I’m currently learning OS/PL/C/C#
-- ✨ Eager to learn more
+🌱 A self-taught hacker and linguist
 
-![The Garden of Words](./profile-background.png)
+✨ Eager to learn more
 
-<!--
-**DongchengWang/DongchengWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![donaldnevermore's GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldnevermore)](https://github.com/donaldnevermore/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donaldnevermore)](https://github.com/donaldnevermore/github-readme-stats)
