@@ -1,6 +1,6 @@
-🔥 Donald33 D. Nevermore
+🔥 Donald33 Wang
 
-🌱 A self-taught hacker and linguist
+🌱 A self-taught hacker
 
 ✨ Eager to learn more
 
